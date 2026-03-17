@@ -6,7 +6,7 @@ I am a Junior Developer focused on tech efficiency and web development. I believ
 - 🎓 **Computer Science** graduate from **Universitas Potensi Utama** (GPA 3.74/4.00).
 - 💻 Currently deep-diving into Web Development (Frontend & Backend).
 - 🤖 Passionate about AI integration to accelerate programming workflows.
-- 📍 Open to relocation to **Jakarta** or **Batam**.
+- 📍 Based in **Medan** | Open to Relocation: **Jakarta & Batam**
 
 ### 🛠️ Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
