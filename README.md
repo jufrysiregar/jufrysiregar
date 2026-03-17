@@ -15,11 +15,6 @@ Junior Developer yang fokus pada efisiensi teknologi dan pengembangan web. Saya 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📁 Proyek Unggulan
-- 🧮 [**Kalkulator Sederhana**](https://mjs-calculator.vercel.app/) - Aplikasi hitung digital cepat.
-- ✅ [**To-do-list Modern**](https://mjs-todolist.vercel.app/) - Manajemen tugas harian dengan local storage.
-- 🌐 [**Portofolio Website**](https://mjs-portofolio.vercel.app/) - Personal showcase yang sedang Anda lihat.
-
 ### 📊 GitHub Stats
 ![Jufry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jufrysiregar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jufrysiregar&layout=compact&theme=tokyonight)
