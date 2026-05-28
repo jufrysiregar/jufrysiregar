@@ -16,8 +16,8 @@ I am a Junior Developer focused on tech efficiency and web development. I believ
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 GitHub Stats
-![Jufry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jufrysiregar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jufrysiregar&layout=compact&theme=tokyonight)
+![Jufry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jufrysiregar&show_icons=true&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jufrysiregar&layout=compact&theme=tokyonight&v=1)
 
 ### 🗣️ Languages
 - **Indonesian**: Native/Mother Tongue
