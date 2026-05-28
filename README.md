@@ -1,4 +1,4 @@
-# HelloWorld.! I'm M. Juffri Siregar.
+# HelloWorld.! I'm M. Juffri Siregar
 
 I believe technology will never be separated from human needs. Building enthusiasm alone isn't enough. It must be accompanied by work out, skill upgrading, and team growth. Creating new innovations and experiences is essential for building new technology.
 
