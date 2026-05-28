@@ -1,10 +1,15 @@
 # HelloWorld, I'm M. Juffri Siregar, S. Kom 👋
 
-I am a Junior Developer focused on tech efficiency and web development. I believe the future of technology lies in the synergy between human creativity and AI efficiency.
+"I believe technology will never be separated from human needs. Building enthusiasm alone isn't enough. It must be accompanied by exercise, skill upgrading, and team growth. Creating new innovations and experiences is essential for building new technology."
 
 ### 🚀 About Me
 - 🎓 **Computer Science** graduate from **Universitas Potensi Utama** (GPA 3.74/4.00).
-- 📍 Based in **Medan** | Open to Relocation: **Jakarta & Batam**
+- 📍 Based in **Medan** | Open to Relocation: **Jakarta & Batam**.
+
+### 🎯 Career Goals & Interests:
+- 💻 **Web Development**
+- 📱 **Android Apps/Game Development**
+- 🌐 **Network Engineering**
 
 ### 🗣️ Languages
 - **Indonesian**: Native/Mother Tongue
