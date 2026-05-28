@@ -1,6 +1,6 @@
 # HelloWorld, I'm M. Juffri Siregar, S. Kom 👋
 
-"I believe technology will never be separated from human needs. Building enthusiasm alone isn't enough. It must be accompanied by exercise, skill upgrading, and team growth. Creating new innovations and experiences is essential for building new technology."
+I believe technology will never be separated from human needs. Building enthusiasm alone isn't enough. It must be accompanied by exercise, skill upgrading, and team growth. Creating new innovations and experiences is essential for building new technology.
 
 ### 🚀 About Me
 - 🎓 **Computer Science** graduate from **Universitas Potensi Utama** (GPA 3.74/4.00).
