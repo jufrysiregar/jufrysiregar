@@ -1,4 +1,4 @@
-# Hi there, I'm M. Juffri Siregar, S. Kom 👋
+# HelloWorld, I'm M. Juffri Siregar, S. Kom 👋
 
 I am a Junior Developer focused on tech efficiency and web development. I believe the future of technology lies in the synergy between human creativity and AI efficiency.
 
@@ -11,4 +11,6 @@ I am a Junior Developer focused on tech efficiency and web development. I believ
 - **English**: Intermediate
 
 ---
-*M. Juffri Siregar (Jufry Siregar)*
+<p align="center">
+  M. Juffri Siregar (Jufry Siregar)
+</p>
