@@ -6,14 +6,14 @@ I believe technology will never be separated from human needs. Building enthusia
 - 🎓 **Computer Science** graduate from **Universitas Potensi Utama**.
 - 📍 Based in **Medan** | Open to Relocation: **Jakarta & Batam**.
 
-### 🎯 Career Goals & Interests:
+### 🎯 Career Goals & Interests :
 - 💻 **Web Development**
 - 📱 **Android Apps/Game Development**
 - 🌐 **Network Engineering**
 
 ### 🗣️ Languages
-- **Indonesian**: Native/Mother Tongue
-- **English**: Intermediate
+- **Indonesian** : Native/Mother Tongue
+- **English** : Intermediate
 
 ---
 <p align="center">
