@@ -17,5 +17,5 @@ I believe technology will never be separated from human needs. Building enthusia
 
 ---
 <p align="center">
-  M. Juffri Siregar • Jufry Siregar
+ 🇮🇩 M. Juffri Siregar • 🇺🇸 Jufry Siregar
 </p>
